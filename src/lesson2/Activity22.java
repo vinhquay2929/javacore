@@ -2,7 +2,7 @@ package lesson2;
 
 import java.util.Scanner;
 
-public class activity22 {
+public class Activity22 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         System.out.println("Nhap n: ");
